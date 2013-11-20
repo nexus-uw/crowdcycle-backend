@@ -19,7 +19,6 @@ Requirements
 - a Postgres db add-on
 - a Pusher add-on
 
-
 ### Required Environment Variables
 - PusherAppId
 - PusherKey
