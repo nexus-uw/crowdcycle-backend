@@ -27,5 +27,7 @@ Requirements
 Pre-Opensource Contributors
 ----------------------------
 -Jayanth Kottapalli
+
 -Daniel MacKenzie
+
 -Yanwei Xiao
