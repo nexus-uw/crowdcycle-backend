@@ -23,3 +23,9 @@ Requirements
 - PusherSecret
 - DATABASE_URL (Heroku auto-defined)
 - PORT (Heroku auto-defined)
+
+Pre-Opensource Contributors
+----------------------------
+Jayanth Kottapalli
+Daniel MacKenzie
+Yanwei Xiao
