@@ -1,6 +1,8 @@
 CrowdCycle Backend
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nexus-uw/crowdcycle-backend.svg)](https://greenkeeper.io/)
+
 Purpose
 ------
 First and foremost, the purpose of this repo is  to provide a backend service for the [iOS app](https://github.com/jayanth1991/crowdcycle-iOS). The goal of CrowdCycle is to eventually provide a single access point for cyclists to find out the current cycling conditions of an urban area. Current mapping services rely too heavily on car centric maps and what the local government thinks the cycling routes are. But the real world situation may differ radically. Pot-hole ridden roads appear the same as brand-new roads. Streetcar tracks are not drawn. Areas with lots of pedestrians to watch out for can only be determined by scanning a
